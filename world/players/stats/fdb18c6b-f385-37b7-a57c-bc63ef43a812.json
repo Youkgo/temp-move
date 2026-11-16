@@ -1,0 +1,74 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:deepslate": 14,
+      "minecraft:furnace": 1,
+      "minecraft:deepslate_diamond_ore": 25,
+      "minecraft:crafting_table": 2,
+      "minecraft:andesite": 1,
+      "minecraft:diorite": 1,
+      "minecraft:iron_ore": 27,
+      "minecraft:stone": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:diorite": 1,
+      "minecraft:coal": 63,
+      "minecraft:cobblestone": 5,
+      "minecraft:furnace": 1,
+      "minecraft:diamond": 25,
+      "minecraft:crafting_table": 2,
+      "minecraft:cobbled_deepslate": 14,
+      "minecraft:rotten_flesh": 4,
+      "minecraft:andesite": 1,
+      "minecraft:raw_iron": 49
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:time_since_rest": 11577,
+      "minecraft:walk_one_cm": 12956,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 3180,
+      "minecraft:mob_kills": 3,
+      "minecraft:damage_taken": 70,
+      "minecraft:play_time": 11577,
+      "minecraft:damage_dealt": 209,
+      "minecraft:jump": 301,
+      "minecraft:time_since_death": 11577,
+      "minecraft:drop": 5,
+      "minecraft:interact_with_furnace": 4,
+      "minecraft:sprint_one_cm": 28869,
+      "minecraft:fall_one_cm": 19705,
+      "minecraft:total_world_time": 11577,
+      "minecraft:swim_one_cm": 153,
+      "minecraft:fly_one_cm": 97562,
+      "minecraft:walk_on_water_one_cm": 1876,
+      "minecraft:crouch_one_cm": 214,
+      "minecraft:sneak_time": 157
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 3
+    },
+    "minecraft:dropped": {
+      "minecraft:rotten_flesh": 4,
+      "minecraft:cobblestone": 2
+    },
+    "minecraft:used": {
+      "minecraft:stone_axe": 6,
+      "minecraft:cobbled_deepslate": 22,
+      "minecraft:crafting_table": 2,
+      "minecraft:diorite": 1,
+      "minecraft:iron_pickaxe": 54,
+      "minecraft:furnace": 1,
+      "minecraft:stone_pickaxe": 17,
+      "minecraft:cobblestone": 2
+    },
+    "minecraft:crafted": {
+      "minecraft:iron_ingot": 2,
+      "minecraft:shield": 1,
+      "minecraft:oak_planks": 168,
+      "minecraft:air": 0,
+      "minecraft:crafting_table": 1
+    }
+  },
+  "DataVersion": 5023
+}

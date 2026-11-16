@@ -1,0 +1,81 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:short_grass": 22,
+      "minecraft:tall_grass": 2,
+      "minecraft:sand": 5,
+      "minecraft:dirt": 12,
+      "minecraft:crafting_table": 2,
+      "minecraft:oak_log": 4,
+      "minecraft:grass_block": 2,
+      "minecraft:sugar_cane": 1,
+      "minecraft:acacia_log": 5,
+      "minecraft:stone": 11
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 5,
+      "minecraft:zombie": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:tropical_fish": 1,
+      "minecraft:dirt": 14,
+      "minecraft:oak_log": 4,
+      "minecraft:cobblestone": 11,
+      "minecraft:brown_wool": 3,
+      "minecraft:acacia_log": 6,
+      "minecraft:white_wool": 2,
+      "minecraft:sand": 5,
+      "minecraft:wheat_seeds": 3,
+      "minecraft:sugar_cane": 3,
+      "minecraft:mutton": 7,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 4,
+      "minecraft:time_since_rest": 1079,
+      "minecraft:walk_one_cm": 92143,
+      "minecraft:leave_game": 2,
+      "minecraft:horse_one_cm": 4427,
+      "minecraft:walk_under_water_one_cm": 6066,
+      "minecraft:mob_kills": 8,
+      "minecraft:damage_taken": 2609,
+      "minecraft:play_time": 36496,
+      "minecraft:damage_dealt": 1245,
+      "minecraft:jump": 823,
+      "minecraft:time_since_death": 1059,
+      "minecraft:sprint_one_cm": 150086,
+      "minecraft:fall_one_cm": 32875,
+      "minecraft:total_world_time": 36496,
+      "minecraft:swim_one_cm": 34102,
+      "minecraft:fly_one_cm": 124735,
+      "minecraft:walk_on_water_one_cm": 8611,
+      "minecraft:crouch_one_cm": 9058,
+      "minecraft:sneak_time": 3511,
+      "minecraft:deaths": 9,
+      "minecraft:player_kills": 1
+    },
+    "minecraft:killed": {
+      "minecraft:tropical_fish": 1,
+      "minecraft:sheep": 6,
+      "minecraft:spider": 1
+    },
+    "minecraft:used": {
+      "minecraft:stone_axe": 15,
+      "minecraft:wooden_axe": 11,
+      "minecraft:crafting_table": 2,
+      "minecraft:wooden_pickaxe": 24,
+      "minecraft:dirt": 14
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 16,
+      "minecraft:wooden_axe": 1,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:stone_axe": 1,
+      "minecraft:oak_planks": 12,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:crafting_table": 2,
+      "minecraft:acacia_planks": 12
+    }
+  },
+  "DataVersion": 5023
+}

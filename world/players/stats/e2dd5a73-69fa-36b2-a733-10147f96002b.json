@@ -1,0 +1,34 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:pig": 1
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 12,
+      "minecraft:acacia_log": 5
+    },
+    "minecraft:picked_up": {
+      "minecraft:porkchop": 1,
+      "minecraft:acacia_log": 5,
+      "minecraft:wheat_seeds": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 6919,
+      "minecraft:walk_one_cm": 5511,
+      "minecraft:leave_game": 2,
+      "minecraft:mob_kills": 1,
+      "minecraft:walk_under_water_one_cm": 96,
+      "minecraft:play_time": 6919,
+      "minecraft:damage_dealt": 100,
+      "minecraft:jump": 17,
+      "minecraft:time_since_death": 6919,
+      "minecraft:sprint_one_cm": 7329,
+      "minecraft:total_world_time": 6919,
+      "minecraft:fly_one_cm": 3614,
+      "minecraft:walk_on_water_one_cm": 23,
+      "minecraft:crouch_one_cm": 168,
+      "minecraft:sneak_time": 36
+    }
+  },
+  "DataVersion": 5023
+}
